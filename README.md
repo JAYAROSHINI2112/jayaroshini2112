@@ -1,6 +1,6 @@
  Hi everyone, i am roshini!🙋‍
 
-- 🔭 I’m currently working on php
+- 🔭 I’m currently working on python and php
 - 🌱 I’m currently learning django
 - 👯 I’m looking to collaborate on any web projects
 - ⚡ Fun fact: Believe everyone !
