@@ -1,9 +1,8 @@
  Hi everyone, i am roshini!🙋‍
 
-- 🔭 I’m currently working on python and php
-- 🌱 I’m currently learning django
-- 👯 I’m looking to collaborate on any web projects
-- ⚡ Fun fact: Believe everyone !
+- 🔭 I’m currently working on Full stack Development
+- 🌱 I’m currently learning Frameworks
+- 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: linked in: Jaya Roshini
                       Instagram : twilight_tragic
 
