@@ -6,7 +6,9 @@
 - 📫 How to reach me: linked in: [LinkedIn](https://www.linkedin.com/in/jaya-roshini-3b36a71b1)
                       
            jayaroshinireadme.vercel.app
-<img align="left" alt="status"src="https://github-jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112" />
+
+
+![Roshini's github stats](https://github-jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
            
                       
 
