@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-<style>
 * {
   box-sizing: border-box;
 }
@@ -16,16 +11,14 @@
   clear: both;
   display: table;
 }
-</style>
-</head>
- <body>   
+ 
  <h3> Hi everyone, i am roshini!🙋‍ <h3>
-<p>
+
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning Frameworks
 - 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: linked in: [LinkedIn](https://www.linkedin.com/in/jaya-roshini-3b36a71b1)
-   </p>
+  
  -Languages and Tools Working With        
  <div class="row">
   <div class="column">
@@ -49,6 +42,3 @@
            
                       
 
-
-<body>
- </html>
