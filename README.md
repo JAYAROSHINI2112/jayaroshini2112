@@ -8,7 +8,7 @@
            jayaroshinireadme.vercel.app
 
 
-![Roshini's github stats](https://github-jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
+![Roshini's github stats](https://githubjayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
            
                       
 
