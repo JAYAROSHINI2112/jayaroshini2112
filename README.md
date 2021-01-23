@@ -17,7 +17,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
  </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAYAROSHINI2112&repo=github-readme-stats)](https://github.com/JAYAROSHINI2112/jayaroshini2112)
 
 ![Roshini's github stats](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
            
