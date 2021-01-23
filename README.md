@@ -1,12 +1,14 @@
 
- <h4> Hi everyone, i am roshini!🙋‍ </h4>
+ <h3> Hi everyone, i am roshini!🙋‍ </h3>
 
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning Frameworks
 - 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: linked in: [LinkedIn](https://www.linkedin.com/in/jaya-roshini-3b36a71b1)
-  
- -Languages and Tools Working With        
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-Languages and Tools Working With        
   <p align="left">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50"> 
@@ -17,7 +19,8 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
  </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAYAROSHINI2112&repo=streamich/react-use)](https://github.com/streamich/react-use)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![Roshini's github stats](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
            
