@@ -8,7 +8,7 @@
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--Languages and Tools Working With        
+<h3>Languages and Tools Working With</h3>       
   <p align="left">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">&nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50"> &nbsp;&nbsp;
@@ -23,6 +23,10 @@
 
 
 ![Roshini's github stats](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112)](https://github.com/JAYAROSHINI2112/jayaroshini2112)
            
                       
 
