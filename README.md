@@ -26,7 +26,8 @@
 
 
 
-[![Top Langs](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112)](https://github.com/JAYAROSHINI2112)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
            
                       
 
