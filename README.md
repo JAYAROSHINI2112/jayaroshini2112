@@ -1,11 +1,11 @@
 
  <h3> Hi everyone, i am roshini!🙋‍ </h3>
-<p align="center">
+
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning Frameworks
 - 👯 I’m looking to collaborate on web projects
 - 📫 How to reach me: linked in: [LinkedIn](https://www.linkedin.com/in/jaya-roshini-3b36a71b1)
- </p>
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
