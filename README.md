@@ -26,7 +26,7 @@
 
 
 
-[![Top Langs](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112)](https://github.com/JAYAROSHINI2112/jayaroshini2112)
+[![Top Langs](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112)](https://github.com/JAYAROSHINI2112)
            
                       
 
