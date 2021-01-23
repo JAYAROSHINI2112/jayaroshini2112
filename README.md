@@ -25,7 +25,8 @@
 ![Roshini's github stats](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&langs_count=8)](https://github.com/JAYAROSHINI2112/jayaroshini2112)
+[![Top Langs](https://jayaroshinireadme.vercel.app/api/top-langs/?username=JAYAROSHINI2112&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
            
