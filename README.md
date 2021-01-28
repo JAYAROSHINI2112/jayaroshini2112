@@ -26,7 +26,6 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-![Roshini's github stats](https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&show_icons=true&theme=radical)
  <img src="https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&layout=compact&hide=html&theme=jolly" alt="JAYAROSHINI" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </p>
