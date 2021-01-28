@@ -1,5 +1,5 @@
 
- <h2 align="center"> Hi everyone, i am roshini!🙋‍ </h2>
+ <h2 align="center"> Hi everyone, i am Roshini!🙋‍ </h2>
  <h3 align="center">WEB DESIGNER 👨‍💻 || IEEE MEMBER 🙋 || GIRLS @TECH IN DEVELOPER STUDENT CLUB 💃 || MENTOR IN TEAM KANAA  👧 </h3>
 
 
