@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning **Django, Reactjs**
 - 👯 I’m looking to collaborate on web projects
-👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
 - 📫 How to reach me:  
                 Gmail - roshinicandy2112@gmail.com <br>
                 [LinkedIn](https://www.linkedin.com/in/jaya-roshini-3b36a71b1)<br>
