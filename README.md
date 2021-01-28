@@ -28,11 +28,11 @@
 <p align="center">
  <img src="https://jayaroshinireadme.vercel.app/api?username=JAYAROSHINI2112&layout=compact&hide=html&theme=jolly" alt="JAYAROSHINI" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-</p>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center">🐦 Github Statistics </h2>
+
 <p align="center">
 [![Top Langs](https://jayaroshinireadme.vercel.app/api/top-langs/?username=JAYAROSHINI2112&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
