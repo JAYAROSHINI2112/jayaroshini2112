@@ -31,13 +31,6 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> </p>
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 
@@ -57,6 +50,12 @@
   <a href="https://www.instagram.com/console_bug/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>            
               
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> </p>
+
+[![Linkedin: JAYAROSHINI](https://img.shields.io/badge/-Jaya Roshini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaya-roshini-3b36a71b1/)](https://www.linkedin.com/in/jaya-roshini-3b36a71b1/)
+[![GitHub KamalDGRT](https://img.shields.io/github/followers/JAYAROSHINI?label=follow&style=social)](https://github.com/JAYAROSHINI2112)
  
 
 
