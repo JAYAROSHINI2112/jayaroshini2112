@@ -34,8 +34,10 @@
 
 
 
-[![Top Langs](https://jayaroshinireadme.vercel.app/api/top-langs/?username=JAYAROSHINI2112&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://jayaroshinireadme.vercel.app/api/top-langs/?username=JAYAROSHINI2112&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img src="https://jayaroshinireadme.vercel.app/api/top-langs/?username=JAYAROSHINI2112&langs_count=10" alt="JAYAROSHINI" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
