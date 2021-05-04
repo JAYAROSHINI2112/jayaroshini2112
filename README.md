@@ -48,7 +48,7 @@
               
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="right">
+
 🚧 **My Todoist Stats:** <br>
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points <br>         
@@ -56,6 +56,6 @@
 ✅  Completed 642 tasks so far <br>          
 ⏳  Longest streak is 10 days<br>
 <!-- TODO-IST:END -->
- </div>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
           
           
