@@ -24,10 +24,10 @@
 <div align="right">
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
+🏆  7,837 Karma Points <br>         
+🌸  Completed 0 tasks today  <br>        
+✅  Completed 642 tasks so far <br>          
+⏳  Longest streak is 10 days<br>
 <!-- TODO-IST:END -->
  </div>
  
