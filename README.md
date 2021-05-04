@@ -10,7 +10,7 @@
 <br><br>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<div align ="center">
 <h3> Languages and Tools:  🔨 </h3>    
 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -20,9 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
+</div>
 <div align="right">
-🚧 **My Todoist Stats:**
+🚧 **My Todoist Stats:** <br>
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points <br>         
 🌸  Completed 0 tasks today  <br>        
