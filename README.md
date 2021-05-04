@@ -13,7 +13,7 @@
 <div align ="center">
 <h3> Languages and Tools:  🔨 </h3>    
 
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
@@ -21,15 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
-<div align="right">
-🚧 **My Todoist Stats:** <br>
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points <br>         
-🌸  Completed 0 tasks today  <br>        
-✅  Completed 642 tasks so far <br>          
-⏳  Longest streak is 10 days<br>
-<!-- TODO-IST:END -->
- </div>
+
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,7 +48,14 @@
               
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+<div align="right">
+🚧 **My Todoist Stats:** <br>
+<!-- TODO-IST:START -->
+🏆  7,837 Karma Points <br>         
+🌸  Completed 0 tasks today  <br>        
+✅  Completed 642 tasks so far <br>          
+⏳  Longest streak is 10 days<br>
+<!-- TODO-IST:END -->
+ </div>
           
-                      
-
+          
