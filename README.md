@@ -12,7 +12,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
 <br><br> 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> 
+ 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
