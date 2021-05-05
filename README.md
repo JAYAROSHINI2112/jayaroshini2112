@@ -67,13 +67,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🚧 **My Todoist Stats:** <br>
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points <br>         
-🌸  Completed 0 tasks today  <br>        
-✅  Completed 642 tasks so far <br>          
-⏳  Longest streak is 10 days<br>
-<!-- TODO-IST:END -->
- 
-          
-          
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
