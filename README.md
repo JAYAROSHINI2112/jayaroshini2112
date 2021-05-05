@@ -11,7 +11,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - 👯 I’m looking to collaborate on web projects
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
 <br><br> 
-<p align="left">
+<p align="center">
  
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -30,7 +30,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
  </p>
 <br><br><br><br><br><br><br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align ="center">
 <h3> Languages and Tools:  🔨 </h3>    
 
