@@ -2,8 +2,8 @@
  <h2 align="center"> Hi everyone, i am Roshini!🙋‍ </h2>
  <h3 align="center">WEB DESIGNER 👨‍💻 || IEEE MEMBER 🙋 || GIRLS @TECH IN DEVELOPER STUDENT CLUB 💃 || MENTOR IN TEAM KANAA  👧 </h3>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on Full stack Development
 - 🌱 I’m currently learning **Django, Reactjs**
 - 👯 I’m looking to collaborate on web projects
