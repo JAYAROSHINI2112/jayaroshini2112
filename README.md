@@ -1,6 +1,16 @@
 
  <h2 align="center"> 
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">i am Roshini!🙋‍ </h2>
+</h2>
+ <h3 align="center">WEB DESIGNER 👨‍💻 || IEEE MEMBER 🙋 || GIRLS @TECH IN DEVELOPER STUDENT CLUB 💃 || MENTOR IN TEAM KANAA  👧 </h3>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently working on Full stack Development
+- 🌱 I’m currently learning **Django, Reactjs**
+- 👯 I’m looking to collaborate on web projects
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
+<br><br>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> </p>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,16 +23,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-</h2>
- <h3 align="center">WEB DESIGNER 👨‍💻 || IEEE MEMBER 🙋 || GIRLS @TECH IN DEVELOPER STUDENT CLUB 💃 || MENTOR IN TEAM KANAA  👧 </h3>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 🔭 I’m currently working on Full stack Development
-- 🌱 I’m currently learning **Django, Reactjs**
-- 👯 I’m looking to collaborate on web projects
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/JAYAROSHINI2112?tab=repositories)
-<br><br>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic" alt="JAYAROSHINI" /> </p>
 <br><br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align ="center">
