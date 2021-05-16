@@ -29,18 +29,25 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 </p>
 <br><br><br><br><br>
 <div align ="center">
-<h3> Languages and Tools:  🔨 </h3>    
 
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yii/yii.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</div>
+<details open>
+<summary align="left">🚀 <b>Skills</b>:</summary>
+
+ <br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html-%20-%2314354C.svg?&style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%20-%2314354C.svg?&style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%23F05033.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/php-%2361DAFB.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/yii2-%23E34F26.svg?&style=for-the-badge&logo=yii2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23007ACC.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ 
+
+</p>
+</details>
 
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +59,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2> Reach out to me on 📫</h2>
+<h2> Reach out to me on ☎️ 📫</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jaya-roshini-3b36a71b1n"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/Roshini80652685?s=09"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
