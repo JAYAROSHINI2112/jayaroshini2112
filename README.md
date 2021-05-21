@@ -32,8 +32,8 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <details open>
 <summary align="left">🚀 <b>Skills</b>:</summary>
  <br>
-
-<p align="left">
+</details>
+<p align="center">
   <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height=25>
   <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white" height=25>
   <img src="https://img.shields.io/badge/c-%23F05033.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,7 +43,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img src="https://img.shields.io/badge/yii2-%23E34F26.svg?&style=for-the-badge&logo=yii2&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23007ACC.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  </p>
-</details>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
