@@ -31,21 +31,18 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <details open>
 <summary align="left">🚀 <b>Skills</b>:</summary>
-
  <br>
 
 <p align="left">
-   <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height=25>
+  <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height=25>
   <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white" height=25>
   <img src="https://img.shields.io/badge/c-%23F05033.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/php-%2361DAFB.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height=25>
-    <img src="https://img.shields.io/badge/yii2-%23E34F26.svg?&style=for-the-badge&logo=yii2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%2361DAFB.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/yii2-%23E34F26.svg?&style=for-the-badge&logo=yii2&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23007ACC.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- 
-
-</p>
+ </p>
 </details>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
