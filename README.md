@@ -23,7 +23,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <a href="https://open.spotify.com">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+ <br>
  ![](https://komarev.com/ghpvc/?username=JAYAROSHINI2112&label=Views&color=blue&style=plastic)
 </p>
 <br><br><br><br><br>
